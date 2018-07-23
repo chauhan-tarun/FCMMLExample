@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "458920671759",
+    "firebase_url": "https://myaidemo.firebaseio.com",
+    "project_id": "myaidemo",
+    "storage_bucket": "myaidemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458920671759:android:3cad98480b3897f8",
+        "android_client_info": {
+          "package_name": "in.tarunchauhan.myaidemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458920671759-vtv1il2nkeqj3ro95cn1rbrs5ogmrsg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.tarunchauhan.myaidemo",
+            "certificate_hash": "a2b6ae5e01000e4c0d183d78778bac173c3cb552"
+          }
+        },
+        {
+          "client_id": "458920671759-6hoaq82r2p7qq75j8kd94kfaos5bmd5s.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "458920671759-6hoaq82r2p7qq75j8kd94kfaos5bmd5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbU-fRJ4ZjCHqaquJQYSmzsmMYY7MGeJU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458920671759-6hoaq82r2p7qq75j8kd94kfaos5bmd5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
